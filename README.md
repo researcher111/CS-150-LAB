@@ -1,1 +1,1 @@
-#CS-150-LAB the supporting source code for the lab manual
+Click this link to view the corresponding labManual https://researcher111.github.io/CS-150-LAB/LabManual/
