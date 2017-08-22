@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style> 
+			
+			.logo{
+				float: right;
+			}
+			
+			.menu{
+				background-color: lightgray;
+				width: 100%;
+			}
+			
+			.item{
+				float: left;
+				background: lightgray;
+				padding: 10px;
+
+			}
+			
+			#happyBox {
+			    width: 100px;
+			    height: 100px;
+			    background-color: red;
+			    position: relative;
+			    animation-name: moveBox;
+			    animation-duration: 4s;
+			    animation-iteration-count: infinite;
+			}
+			
+			
+			/* Standard syntax */
+			@keyframes moveBox {
+			    0%   {background-color:red; left:60px; top:60px;}
+			    25%  {background-color:yellow; left:200px; top:60px;}
+			    50%  {background-color:blue; left:200px; top:200px;}
+			    75%  {background-color:green; left:60px; top:200px;}
+			    100% {background-color:red; left:60px; top:60px;}
+			}
+			
+		</style>
+	</head>
+<body>
+	<div class="logo">
+	   <img src="http://bridgewatereagles.com/images/setup/2015/footer_logo_.png"/> 
+	   <!-- the unique way this tag was closed -->
+	</div> 
+	<div id="menu">
+		<div class="item"> CS 150 </div>
+		<div class="item"> <a href="https://www.google.com"> Search </a> </div>
+		<!--  two other menu items --> 
+	</div>
+
+
+	<div id="happyBox"></div>
+	
+		
+</body>
+</html>
