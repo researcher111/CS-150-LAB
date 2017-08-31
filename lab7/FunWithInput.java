@@ -1,5 +1,3 @@
-
-
 public class FunWithInput {
 
 	//Notice that we have included something sp
