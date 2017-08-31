@@ -4,7 +4,6 @@
  */
 
 
-package lab6;
 //import math library
 
 public class FunWithLibraries {
