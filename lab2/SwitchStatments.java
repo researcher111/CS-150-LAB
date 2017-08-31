@@ -1,5 +1,5 @@
 public class SwitchStatments {
-	public static void main() {
+	public static void main(String[] args) {
 		int value = 10;
 		switch (value) {
 		case 1:
