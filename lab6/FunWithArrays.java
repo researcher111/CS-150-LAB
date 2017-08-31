@@ -1,5 +1,3 @@
-package lab6;
-
 public class FunWithArrays {
 
 	/*Write a function that takes as input one parameter
