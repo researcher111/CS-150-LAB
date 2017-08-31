@@ -1,8 +1,7 @@
-package lab1;
 
 public class PlayingWithTypes {
 
-	public static void main() {
+	public static void main(String[] args) {
 	    //Drills with Integers
 		int c;
 	    c = 1234 + 4321;
