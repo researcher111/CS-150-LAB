@@ -1,4 +1,4 @@
-package lab4;
+
 
 public class FunWithFunctions {
 	//Step 1: Add the two integer parameters 
