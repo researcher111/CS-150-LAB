@@ -1,7 +1,7 @@
 
 public class NestedIfStatments {
 
-	public static void main() {
+	public static void main(String[] args) {
 		double grade = 90.0;
 		if(grade >= 90) {
 			System.out.println("A");
