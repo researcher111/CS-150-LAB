@@ -1,5 +1,3 @@
-package lab2;
-
 public class IfStatements {
 	public static void main() {
 		int n = 30;
