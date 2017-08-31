@@ -1,5 +1,5 @@
 public class IfStatements {
-	public static void main() {
+	public static void main(String[] args) {
 		int n = 30;
 		//Fill in the condition in the statement below. 
 		if(   ) {
