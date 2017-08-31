@@ -1,5 +1,3 @@
-package lab2;
-
 public class SwitchStatments {
 	public static void main() {
 		int value = 10;
