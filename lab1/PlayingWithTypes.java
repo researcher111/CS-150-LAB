@@ -20,7 +20,7 @@ public class PlayingWithTypes {
 		//Drills with Doubles
 		double d; 
 		d = 15.012 + 1.11;
-		System.out.println("15.012" + 1.11);
+		System.out.println("15.012 + 1.11" + d);
 		/**
 		 * Follow the example above and 
 		 * write code that evaluates and prints the 
