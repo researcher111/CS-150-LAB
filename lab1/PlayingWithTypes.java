@@ -4,7 +4,7 @@ public class PlayingWithTypes {
 	public static void main(String[] args) {
 	    //Drills with Integers
 		int c;
-	    c = 1234 + 4321;
+	        c = 1234 + 4321;
 		System.out.println("1234 + 4321 =" + c);
 		c = 15 / 3;
 		System.out.println("15 / 3 =" + c);
@@ -20,7 +20,7 @@ public class PlayingWithTypes {
 		//Drills with Doubles
 		double d; 
 		d = 15.012 + 1.11;
-		System.out.println("15.012 + 1.11" + d);
+		System.out.println("15.012 + 1.11 = " + d);
 		/**
 		 * Follow the example above and 
 		 * write code that evaluates and prints the 
@@ -34,16 +34,16 @@ public class PlayingWithTypes {
 		
 		//Drills with Strings
 		String s; 
-		s = "Hello" + "world";
+		s = "Hello " + "world";
 		System.out.println(s);
 		/**
 		 * Follow the example above and 
 		 * write code that evaluates and prints the 
 		 * answers to the following expressions
 		 * 
-		   "Hello" +"3"
-		   "Hello" + 3 
-		   "Hello" + 3.0
+		   "Hello " +"3"
+		   "Hello " + 3 
+		   "Hello " + 3.0
 		 */
 		
 		//Drills with Boolean 
