@@ -1,5 +1,3 @@
-package lab3;
-
 public class forloopFun {
 
 	public static void main() {
