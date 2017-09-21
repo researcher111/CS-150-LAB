@@ -8,7 +8,7 @@ public class FunWithFunctions {
 		return 0;
 	} 
 	
-	public static void main() {
+	public static void main(String[] args) {
 		int a = 30;
 		int b = 40;
 		//Step 4: Updating 
