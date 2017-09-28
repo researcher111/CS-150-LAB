@@ -1,7 +1,7 @@
 public class FunWithArrays {
 
 	/*Write a function that takes as input one parameter
-	 * n and returns double array contain n random numbers
+	 * n and returns a double array contain n random numbers
 	 * 	
 	 */
 	public static double[] randomArray(int n) {
