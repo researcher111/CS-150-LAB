@@ -26,7 +26,7 @@ public class FunWithTwoDArrays {
 	public static void print2DArray(double[][] array) {
 		for(int i = 0; i<array.length; i++) {
 			try {
-				for(int j = 0; j <array.length; j++ ) {
+				for(int j = 0; j <array[0].length; j++ ) {
 					System.out.print(array[i][j] + " ");
 				}
 			}catch(Exception e) {
