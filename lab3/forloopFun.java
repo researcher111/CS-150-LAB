@@ -1,6 +1,6 @@
 public class forloopFun {
 
-	public static void main() {
+	public static void main(String[] args) {
 		System.out.println("Count forward from 1 to 10 ");
 		// Modify the for loop below so that it counts 
 		// forward from 1 to 10
